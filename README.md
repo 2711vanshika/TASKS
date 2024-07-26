@@ -1,9 +1,6 @@
-NAME: Vanshika Singhal
-COMPANY: CODTECH IT SOLUTIONS
-ID:CT6WD642
+NAME: VANSHIKA SINGHAL
 DOMAIN: WEB DEVELOPMENT
-DURATON: JUNE TO AUGUST 2024
-MENTOR: N. Santhosh Kumar
+
 
 OVERVIEW OF THE PROJECT
 PROJECT: TO DO LIST
@@ -22,9 +19,6 @@ TECHNOLOGIES USED
 1. HTML: The HTML is the standard markup language for Web pages and to design ToDo List.
 2. CSS:  CSS is the language we use to style ToDo List. CSS describes how HTML elements should be displayed.
 3. JAVASCRIPT: JavaScript is a scripting language used to develop web pages. Developed in Netscape, JS allows developers to create a dynamic and interactive web page to interact with visitors and execute complex actions.
-
-OVERVIEW OF THR PROJECT
-PROJECT: TO DO LISTMENTOR: G.SRAVANI
 
 OVERVIEW OF THE PROJECT
 PROJECT: TO DO LIST
